@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631186392846",
+    "firebase_url": "https://el-gharamat.firebaseio.com",
+    "project_id": "el-gharamat",
+    "storage_bucket": "el-gharamat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631186392846:android:dab4d85ab7b300af",
+        "android_client_info": {
+          "package_name": "com.sattar.elgharamat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631186392846-6dtsgl2adh4g5colhmf53s1koabl7fv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiuzQZMlnexlV2tr9-bNtUhRPWGdHoe7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
